@@ -3,7 +3,7 @@ Diagnostic Analytics of Sales and Customer Insights using Azure &amp; Power BI
 
 # Diagnostic Analytics of Sales and Customer Insights
 
-📅 **Project Duration:** June 2025  
+📅 **Project Duration:** March 2025  
 🏢 **Institution:** Conestoga College | INFO8146: Diagnostic Analysis  
 
 ---
